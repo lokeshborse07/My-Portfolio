@@ -78,7 +78,7 @@ const About: React.FC = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-cyan-500 to-blue-600 blur-2xl opacity-20 animate-pulse"></div>
               <div className="relative h-full w-full overflow-hidden rounded-full border-2 border-cyan-400 p-2 transition-all duration-300 hover:shadow-[0_0_25px_rgba(34,211,238,0.4)]">
                 <img 
-                  src="/My-Image.jpg" 
+                  src="/myimage.jpg" 
                   alt="Lokesh Borase"
                   className="h-full w-full rounded-full object-cover"
                 />
